@@ -1,6 +1,6 @@
 ## SFDE 2025 [[paper](https://arxiv.org/abs/2502.11381)][[model](#pre-trained-checkpoints)] [[Cite](#Citation)]
 <h1 align="center">MultiLevel Joint Learning with Spatial and Frequency Domain Enhancement for Cross-View Geo-Localization</h1>
-<h3 align="center"><strong>Hongzhang Ying*</strong>, <strong>Shuaishuai Ma</strong>
+<h3 align="center"><strong>Hongying Zhang *</strong>, <strong>Shuaishuai Ma</strong>
 
 <div align="center">
   </sup>School of Electronic Information and Automation, Civil Aviation University of China<br>
